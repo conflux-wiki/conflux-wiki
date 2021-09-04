@@ -72,7 +72,9 @@ NFTBox将秉承着用户体验为最优先级，支持手机端、PC端等多种
 !!! note
 	在签到合约代付额度不足时：需要支付燃气费+存储费才能签到成功，建议在合约代付有额度的时候进行签到操作（因合约代付而不消耗任何cfx）。
 
-## 更换NFTBox头像
+## 更换NFTBox头像与标签
+
+### 更换头像
 在持有NFTBox头像NFT的情况下，可以将自己的个性化头像变更为您持有的NFT样式，目前已支持pixel烤仔头像。[Pixel烤仔活动介绍](https://forum.conflux.fun/t/pixelconfi/9755)
 
 - 访问[NFTBox收藏页面](https://boxnft.io/#/collection)，连接钱包后点击头像右下角按钮
@@ -90,8 +92,19 @@ NFTBox将秉承着用户体验为最优先级，支持手机端、PC端等多种
 - 头像变为Punk
 ![updated](./figure/微信截图_20210829093811.png)
 
+### 更换标签
 
+- 点击头像下方名称旁的按钮（未设置状态下显示为钱包地址）
+![image](https://user-images.githubusercontent.com/71199684/132097682-59e0f9ee-d8bb-440b-bf0f-e9cca9eb7d10.png)
 
+- 选择需要作为称谓的Ci NFT
+![image](https://user-images.githubusercontent.com/71199684/132097742-931050b4-178b-438e-99df-27e29a662c47.png)
+
+- 在弹出的钱包签名界面确认签名
+![image](https://user-images.githubusercontent.com/71199684/132097772-ed1456b3-1357-4af9-b587-b701820a112e.png)
+
+- 称谓成功添加
+![image](https://user-images.githubusercontent.com/71199684/132097798-fa15a40c-9108-4db1-97fc-d32a22145db2.png)
 
 
 
