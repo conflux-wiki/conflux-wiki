@@ -162,6 +162,8 @@ nav:
     - development/portal-faucet.md
     - development/portal-drip.md
     - development/mobile-portal.md
+  - Fluent钱包教程:
+    - development/fluent.md
 - Ecosystem:
   - ecosystem/introduction.md
   - Conflux基础生态教程:
