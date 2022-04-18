@@ -29,7 +29,6 @@
 -   [Conflux GPU 挖矿教程文档（v1.1.2）](https://forum.conflux.fun/t/topic/5131)
 -   [Conflux网络中"奇奇怪怪“的Node](https://juejin.cn/post/6854573217655291917)
 -   [Conflux RPC 和以太坊 RPC的 区别](https://juejin.im/post/6876328114461343757/)
--   [json rpc](https://developer.conflux-chain.org/docs/conflux-doc/docs/json_rpc)
 -   [Conflux RPC 地址列表(仅供开发测试使用，不保证可用性)](https://github.com/conflux-fans/conflux-rpc-endpoints)
 -   [如何配置自己节点的rpc端口和数据存放路径](https://forum.conflux.fun/t/topic/5147)
 -   [Conflux网络上首款类Infura API访问服务限时公测中](https://mp.weixin.qq.com/s/S_3BllKl_1ahTDA2v1gEAQ)
@@ -45,6 +44,8 @@
 -   [java-conflux-sdk](https://github.com/Conflux-Chain/java-conflux-sdk)
 -   [go-conflux-sdk](https://github.com/Conflux-Chain/go-conflux-sdk)
 -   [Conflux SDK 使用体验收集](https://forum.conflux.fun/t/topic/225)
+-   **[Conflux V2硬分叉开发介绍](https://developer.confluxnetwork.org/v2-hardfork/hydra_overview)**
+-   **[Conflux espace介绍：完全兼容EVM](https://developer.confluxnetwork.org/v2-hardfork/hydra_overview#conflux-espace)**
 
 
 ## Dex开发文档

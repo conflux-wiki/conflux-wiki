@@ -72,6 +72,6 @@
 
 ## 代币展示
 
-如果想在Scan上展示代币，需要在社区里和工作人员（cike@conflux-chain.org）联系申请审核。审核通过后，由ConfluxScan开发人员部署代币。
+~~项目方如果想在Scan上展示代币，需要联系工作人员（cike@confluxnetwork.org）申请审核。~~**但目前的scan已不需要审核即可展示代币相关信息，开发者只需要按照CRC20标准开发并部署代币合约即可获得展示。**
 
 ![image.png](./figure/21a76dc4c65f4a099a2fd88f2a6b3189~tplv-k3u1fbpfcp-watermark.image)

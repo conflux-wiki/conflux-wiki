@@ -164,22 +164,37 @@ nav:
     - development/mobile-portal.md
   - Fluent钱包教程:
     - development/fluent.md
+  - Conflux eSpace（EVM兼容空间）介绍:
+    - development/espace.md
+    - development/espace-wallet.md
+    - development/cross-espace.md
 - Ecosystem:
   - ecosystem/introduction.md
   - Conflux基础生态教程:
     - ecosystem/wcfx-cfx-exchange.md
     - ecosystem/governance.md
   - 常见生态介绍及教程:
-    - ecosystem/tspace.md
-    - ecosystem/nft-box.md
-    - ecosystem/shuttleflow.md
-    - ecosystem/moonswap.md
-    - ecosystem/phantom.md
-    - ecosystem/dan.md
-    - ecosystem/guguo.md
-    - ecosystem/bountyv2.md
-    - ecosystem/triangledao.md
-    - ecosystem/stampers.md
+    - DEX生态:
+        - ecosystem/swappi.md
+        - ecosystem/moonswap.md
+    - NFT平台:
+        - ecosystem/tspace.md
+        - ecosystem/nft-box.md
+        - ecosystem/dan.md
+        - ecosystem/guguo.md
+    - DAO治理:
+        - ecosystem/stampers.md
+    - 跨链跨空间:
+        - ecosystem/shuttleflow.md
+        - ecosystem/core-espace.md
+    - 合成资产:
+        - ecosystem/phantom.md
+    - 赏金任务:
+        - ecosystem/bountyv2.md
+    - Stable Coin:
+        - ecosystem/triangledao.md
+    - FC兑换生态:
+        - ecosystem/fc-exchange.md
 - Web:
   - web/introduction.md
   - SQL 注入:
